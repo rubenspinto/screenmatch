@@ -1,4 +1,4 @@
-package br.com.appria.screenmatch;
+package br.com.appria.screenmatch.principal;
 
 import br.com.appria.screenmatch.model.DadosSerie;
 import br.com.appria.screenmatch.service.ConsumoAPI;
